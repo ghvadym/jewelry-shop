@@ -1,0 +1,7 @@
+#hero {
+  @include imageHero;
+
+  .hero-title {
+    color: #fff;
+  }
+}
