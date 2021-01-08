@@ -15,7 +15,6 @@
 get_header();?>
 
 <?php echo get_template_part('template-parts/home/home-banner'); ?>
-<h1>Hello</h1>
 
 <?php
 get_footer();
